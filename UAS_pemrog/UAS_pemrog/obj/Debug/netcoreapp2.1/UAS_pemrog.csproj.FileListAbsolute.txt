@@ -1,0 +1,11 @@
+C:\Users\ARYOW\Documents\Coding\UAS_pemrog\UAS_pemrog\bin\Debug\netcoreapp2.1\UAS_pemrog.deps.json
+C:\Users\ARYOW\Documents\Coding\UAS_pemrog\UAS_pemrog\bin\Debug\netcoreapp2.1\UAS_pemrog.runtimeconfig.json
+C:\Users\ARYOW\Documents\Coding\UAS_pemrog\UAS_pemrog\bin\Debug\netcoreapp2.1\UAS_pemrog.runtimeconfig.dev.json
+C:\Users\ARYOW\Documents\Coding\UAS_pemrog\UAS_pemrog\bin\Debug\netcoreapp2.1\UAS_pemrog.dll
+C:\Users\ARYOW\Documents\Coding\UAS_pemrog\UAS_pemrog\bin\Debug\netcoreapp2.1\UAS_pemrog.pdb
+C:\Users\ARYOW\Documents\Coding\UAS_pemrog\UAS_pemrog\obj\Debug\netcoreapp2.1\UAS_pemrog.csprojAssemblyReference.cache
+C:\Users\ARYOW\Documents\Coding\UAS_pemrog\UAS_pemrog\obj\Debug\netcoreapp2.1\UAS_pemrog.csproj.CoreCompileInputs.cache
+C:\Users\ARYOW\Documents\Coding\UAS_pemrog\UAS_pemrog\obj\Debug\netcoreapp2.1\UAS_pemrog.AssemblyInfoInputs.cache
+C:\Users\ARYOW\Documents\Coding\UAS_pemrog\UAS_pemrog\obj\Debug\netcoreapp2.1\UAS_pemrog.AssemblyInfo.cs
+C:\Users\ARYOW\Documents\Coding\UAS_pemrog\UAS_pemrog\obj\Debug\netcoreapp2.1\UAS_pemrog.dll
+C:\Users\ARYOW\Documents\Coding\UAS_pemrog\UAS_pemrog\obj\Debug\netcoreapp2.1\UAS_pemrog.pdb

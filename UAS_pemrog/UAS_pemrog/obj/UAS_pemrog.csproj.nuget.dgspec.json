@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ARYOW\\Documents\\Coding\\UAS_pemrog\\UAS_pemrog\\UAS_pemrog.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ARYOW\\Documents\\Coding\\UAS_pemrog\\UAS_pemrog\\UAS_pemrog.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ARYOW\\Documents\\Coding\\UAS_pemrog\\UAS_pemrog\\UAS_pemrog.csproj",
+        "projectName": "UAS_pemrog",
+        "projectPath": "C:\\Users\\ARYOW\\Documents\\Coding\\UAS_pemrog\\UAS_pemrog\\UAS_pemrog.csproj",
+        "packagesPath": "C:\\Users\\ARYOW\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ARYOW\\Documents\\Coding\\UAS_pemrog\\UAS_pemrog\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ARYOW\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
