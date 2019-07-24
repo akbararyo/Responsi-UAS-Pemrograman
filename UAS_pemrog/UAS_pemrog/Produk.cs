@@ -6,9 +6,10 @@ namespace UAS_pemrog
 {
     public class Produk
     {
+        //property
         public string Kode { get; set; }
         public string Nama { get; set; }
-        public string HargaJual { get; set; }
-        public string HargaBeli { get; set; }
+        public int HargaJual { get; set; }
+        public int HargaBeli { get; set; }
     }
 }

@@ -61,9 +61,9 @@ namespace UAS_pemrog
             Console.Write("Nama Produk : ");
             produk.Nama = Console.ReadLine();
             Console.Write("Harga Beli : ");
-            produk.HargaBeli = Console.ReadLine();
+            produk.HargaBeli = Convert.ToInt32(Console.ReadLine());
             Console.Write("Harga Jual : ");
-            produk.HargaJual = Console.ReadLine();
+            produk.HargaJual = Convert.ToInt32(Console.ReadLine());
 
             listProduk.Add(produk);
 
